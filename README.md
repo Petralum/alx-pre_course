@@ -1,2 +1,2 @@
 My first readme
-ALX is so cool
+Alx School is so cool
